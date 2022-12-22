@@ -3,6 +3,7 @@ package chapter1.program1;
 public class AgeAndGender {
 	public static void main(String[] args) {
 		
+		
 		int gender = 0;		//　性別　0は女性　1以上は男性
 		int age = 10;       //　年齢　実際の年齢をそのまま入力
 		
